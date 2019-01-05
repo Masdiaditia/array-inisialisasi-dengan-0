@@ -1,0 +1,1 @@
+# array-inisialisasi-dengan-0
